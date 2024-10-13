@@ -21,20 +21,23 @@ Entra ID, previously known as Azure Active Directory (Azure AD), is Microsoft's 
 <p align="center">
 
 <h4>Step 1</h4> 
-Create 2 Storage Account resources and create containers in them.<br/>
-<img src="https://i.imgur.com/ZSdcwpC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/th6llVb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+In MS Entra ID create a new user.<br/>
+<img src="https://i.imgur.com/Cq5PsDc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gz40Lxc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <h4>Step 2</h4> 
-Enable blob versioning and chnage feed on your blobs.<br/>
-<img src="https://i.imgur.com/OgjCPzN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+You can assign roles at the resource level.<br/>
+<img src="https://i.imgur.com/WFcRWdG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tRgHrB2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h4>Step 3</h4> 
-Create a replication rule.<br/>
-<img src="https://i.imgur.com/AYnwzO7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+You can assign roles at the resource group level.<br/>
+<img src="https://i.imgur.com/QNOWfQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bGkRP0F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h4>Step 4</h4> 
-Confirm that objects have been replicated.<br/>
-<img src="https://i.imgur.com/SuS0aoZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/JDDSocA.png" height="80%" wi
+You can assign roles at the subscription level level.<br/>
+<img src="https://i.imgur.com/YMO6Bge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DBb8dr0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
